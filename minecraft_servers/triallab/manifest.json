@@ -2,9 +2,6 @@
   "server_name": "triallab",
   "nice_name": "Triallab",
   "direct_ip": "mc.triallab.net",
-  "server_wildcards": [
-    "%.triallab.net"
-  ],
   "supported_languages": [
     "de"
   ],
